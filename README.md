@@ -69,6 +69,6 @@ I would like to express my gratitude to the online DSA courses, textbooks, and c
 
 ## Contact
 
-If you have any questions or would like to discuss DSA concepts further, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or would like to discuss DSA concepts further, please feel free to reach out to me at [your-email@example.com](mailto:marwadishivram@gmail.com).
 
 Thank you for joining me on this journey of learning Data Structures and Algorithms!
